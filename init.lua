@@ -11,7 +11,6 @@ require('config/completions')
 local custom_gruvbox = require'lualine.themes.gruvbox'
 
 
-
 -- Theme
 vim.o.background = "dark" -- or "light" for light mode
 vim.cmd([[colorscheme gruvbox]])

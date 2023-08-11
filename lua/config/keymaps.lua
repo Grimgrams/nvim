@@ -30,3 +30,7 @@ keymap("", "<C-/>", ":Texplore<CR>")
 
 -- NeoTree
 keymap("n", "<F10>", ":Neotree<CR>")
+
+
+-- Telescope
+keymap("", "<F9>", ":Telescope<CR>")
