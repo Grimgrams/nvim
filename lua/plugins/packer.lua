@@ -7,6 +7,7 @@ return require('packer').startup(function(use)
   -- Packer can manage itself
   use 'wbthomason/packer.nvim'
 
+  --/Users/grimgram/Desktop/weather-app/src/App.jsuse 'windwp/nvim-ts-autotag'
 
   use 'nvim-tree/nvim-web-devicons'
 
