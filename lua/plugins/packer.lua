@@ -11,6 +11,7 @@ return require('packer').startup(function(use)
 
   use 'nvim-tree/nvim-web-devicons'
 
+  use 'norcalli/nvim-colorizer.lua'
   -- Simple plugins can be specified as strings
   use 'rstacruz/vim-closer'
 
