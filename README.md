@@ -4,9 +4,9 @@
 * Lua
 * [Luarocks](https://github.com/luarocks/luarocks/wiki/Installation-instructions-for-Unix)
 * Hererocks
-  ```bash
-  $ pip install hererocks
-  ```
+```bash
+$ pip install hererocks
+```
 * *Packer*
 ```bash
 $ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
